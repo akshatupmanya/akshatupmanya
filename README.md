@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshatupmanya
-- 👀 I’m interested in Machine Learning, Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Linked In
+- 👀 I’m interested in Machine Learning, Data Science, Cyber Security and afterall "DATA"...
+- 🌱 I’m currently learning Machine Learning, Data Science, and making some popular Data Science project...
+- 💞️ I’m looking to collaborate on Linked In 
 - 📫 Just Email me- akshatupmanya@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Also do artistic things.
